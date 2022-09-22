@@ -1,0 +1,11 @@
+C:\Users\jarosz.eryk\source\repos\cosinne\cosinne\bin\Debug\cosinne.exe.config
+C:\Users\jarosz.eryk\source\repos\cosinne\cosinne\bin\Debug\cosinne.exe
+C:\Users\jarosz.eryk\source\repos\cosinne\cosinne\bin\Debug\cosinne.pdb
+C:\Users\jarosz.eryk\source\repos\cosinne\cosinne\obj\Debug\cosinne.csproj.AssemblyReference.cache
+C:\Users\jarosz.eryk\source\repos\cosinne\cosinne\obj\Debug\cosinne.csproj.SuggestedBindingRedirects.cache
+C:\Users\jarosz.eryk\source\repos\cosinne\cosinne\obj\Debug\cosinne.Form1.resources
+C:\Users\jarosz.eryk\source\repos\cosinne\cosinne\obj\Debug\cosinne.Properties.Resources.resources
+C:\Users\jarosz.eryk\source\repos\cosinne\cosinne\obj\Debug\cosinne.csproj.GenerateResource.cache
+C:\Users\jarosz.eryk\source\repos\cosinne\cosinne\obj\Debug\cosinne.csproj.CoreCompileInputs.cache
+C:\Users\jarosz.eryk\source\repos\cosinne\cosinne\obj\Debug\cosinne.exe
+C:\Users\jarosz.eryk\source\repos\cosinne\cosinne\obj\Debug\cosinne.pdb
